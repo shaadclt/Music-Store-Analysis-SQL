@@ -1,4 +1,4 @@
-# Music_Store_Analysis_SQL
+# Music Store Analysis Using SQL
 
 A project to analyze a digital music store data using SQL
 
