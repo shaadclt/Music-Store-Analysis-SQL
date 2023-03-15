@@ -3,7 +3,7 @@
 A project to analyze a digital music store data using SQL
 
 ## Database and Tools
-• PostgreSQL \n
+• PostgreSQL 
 • pgadmin4
 
 Schema - Music Store Database
