@@ -4,9 +4,9 @@ This repository contains a collection of SQL queries that can be used to extract
 
 ## Database and Tools
 * PostgreSQL
-* * pgadmin4
+* pgadmin4
 
-Schema - Music Store Database
+## Schema - Music Store Database
 
 ![image](https://user-images.githubusercontent.com/98437584/225301249-b43ef217-5ad6-4d27-955a-91442b5334f4.png)
 
