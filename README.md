@@ -3,7 +3,7 @@
 This repository contains a collection of SQL queries that can be used to extract information from a database. Each query is designed to solve a specific problem or retrieve specific data. The queries cover various scenarios, including finding the most senior employee, analyzing customer spending, determining popular genres, and more.
 
 ## Database and Tools
-• PostgreSQL • pgadmin4
+* PostgreSQL * pgadmin4
 
 Schema - Music Store Database
 
